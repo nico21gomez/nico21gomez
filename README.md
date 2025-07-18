@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mí  
 
-¡Hola! Soy un **Ingeniero de Sistemas** con experiencia en **desarrollo backend** y **gestión de bases de datos**. Me apasiona la resolución de problemas y la optimización de procesos mediante código limpio y eficiente.  
+Espero q pronto **Ingeniero de Sistemas** 
 
 ### 🛠️ Tecnologías y herramientas  
 - **Lenguajes**: Python 🐍  
